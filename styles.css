@@ -1,0 +1,26 @@
+body {
+    background-color: #f4f4f9;
+    font-family: Arial, sans-serif;
+  }
+  
+  #quote-box {
+    max-width: 600px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+  }
+  
+  #text {
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: #333;
+  }
+  
+  #author {
+    font-size: 1rem;
+    color: #555;
+  }
+  
+  #new-quote, #tweet-quote {
+    padding: 10px 20px;
+  }
+  
